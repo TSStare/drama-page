@@ -1,0 +1,129 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  border: 2px groove; 
+  border-radius: 10px;
+  padding: 1px 5px;
+  margin-top:20px;
+  margin-left: 750px;
+  margin-right: 750px;
+  margin-bottom:20px;
+  border-color: gainsboro
+}
+.desc{
+  font-size:11px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #808080
+}
+.dramagram{
+  font-family: Lucida Handwriting;
+  color: darkred;
+}
+.enter{
+border: 2px groove;
+border-color: gainsboro;
+padding: 10px;
+margin: 0;
+font-family: Verdana;
+padding: 0;
+border-radius: 5px;
+margin-top: 20px;
+margin-bottom: 20px;
+height: 30px;
+padding-top: 15px;
+color: grey
+}
+.or{
+border-bottom-style: groove;
+border-width: 2px;
+margin-left: 0;
+margin-right: 0;
+border-color: gainsboro;
+font-family: Verdana
+}
+.facebook{
+  font-family: Verdana;
+  border: 2px groove;
+border-color: #4267B2;
+padding: 10px;
+margin: 0;
+font-family: Verdana;
+padding: 0;
+border-radius: 5px;
+margin-top: 20px;
+margin-bottom: 20px;
+height: 30px;
+padding-top: 15px;
+color: whitesmoke;
+background-color: #4267B2
+}
+.name{
+  border: 2px groove;
+  border-color: gainsboro;
+  padding: 10px;
+  margin: 0;
+  font-family: Verdana;
+  padding: 0;
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  height: 30px;
+ padding-top: 15px;
+ color: grey
+  }
+  .username{
+    border: 2px groove;
+    border-color: gainsboro;
+    padding: 10px;
+    margin: 0;
+    font-family: Verdana;
+    padding: 0;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 30px;
+   padding-top: 15px;
+   color: grey
+    }
+    .password{
+      border: 2px groove;
+      border-color: gainsboro;
+      padding: 10px;
+      margin: 0;
+      font-family: Verdana;
+      padding: 0;
+      border-radius: 5px;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      height: 30px;
+     padding-top: 15px;
+     color: grey
+      }
+      .button{
+        font-family: Verdana;
+        border: 2px groove;
+      border-color: goldenrod;
+      padding: 10px;
+      margin: 0;
+      font-family: Verdana;
+      padding: 0;
+      border-radius: 5px;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      margin-left: 20px ;
+      margin-right: 20px;
+      height: 30px;
+     padding-top: 15px;
+     color: whitesmoke;
+     background-color: goldenrod
+      }
+      .login{
+       color: goldenrod
+      }
+      .terms , .account{
+        font-family: Verdana
+      }
+      @media screen and(man-width:600px){
+        body {background-color: white}
+      }
